@@ -15,7 +15,6 @@
 		89FA51A71B6AFA5B00C319B4 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 89FA51A51B6AFA5B00C319B4 /* LaunchScreen.xib */; };
 		89FA51B31B6AFA5B00C319B4 /* TestViewControllersTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 89FA51B21B6AFA5B00C319B4 /* TestViewControllersTests.m */; };
 		89FA51BE1B6AFA7900C319B4 /* TestTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 89FA51BD1B6AFA7900C319B4 /* TestTableViewController.m */; };
-		89FA51C11B6AFD8D00C319B4 /* TestCollectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 89FA51C01B6AFD8D00C319B4 /* TestCollectionViewController.m */; };
 		89FA51C41B6B04DC00C319B4 /* TestTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 89FA51C31B6B04DC00C319B4 /* TestTableViewCell.m */; };
 		89FA51C71B6B13D000C319B4 /* TestCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 89FA51C61B6B13D000C319B4 /* TestCollectionViewCell.m */; };
 /* End PBXBuildFile section */
@@ -46,8 +45,6 @@
 		89FA51B21B6AFA5B00C319B4 /* TestViewControllersTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestViewControllersTests.m; sourceTree = "<group>"; };
 		89FA51BC1B6AFA7900C319B4 /* TestTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestTableViewController.h; sourceTree = "<group>"; };
 		89FA51BD1B6AFA7900C319B4 /* TestTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestTableViewController.m; sourceTree = "<group>"; };
-		89FA51BF1B6AFD8D00C319B4 /* TestCollectionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestCollectionViewController.h; sourceTree = "<group>"; };
-		89FA51C01B6AFD8D00C319B4 /* TestCollectionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestCollectionViewController.m; sourceTree = "<group>"; };
 		89FA51C21B6B04DC00C319B4 /* TestTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestTableViewCell.h; sourceTree = "<group>"; };
 		89FA51C31B6B04DC00C319B4 /* TestTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestTableViewCell.m; sourceTree = "<group>"; };
 		89FA51C51B6B13D000C319B4 /* TestCollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestCollectionViewCell.h; sourceTree = "<group>"; };
@@ -107,8 +104,6 @@
 				89FA51961B6AFA5B00C319B4 /* Supporting Files */,
 				89FA51BC1B6AFA7900C319B4 /* TestTableViewController.h */,
 				89FA51BD1B6AFA7900C319B4 /* TestTableViewController.m */,
-				89FA51BF1B6AFD8D00C319B4 /* TestCollectionViewController.h */,
-				89FA51C01B6AFD8D00C319B4 /* TestCollectionViewController.m */,
 			);
 			path = TestViewControllers;
 			sourceTree = "<group>";
@@ -241,7 +236,6 @@
 			files = (
 				89FA519F1B6AFA5B00C319B4 /* ViewController.m in Sources */,
 				89FA51C41B6B04DC00C319B4 /* TestTableViewCell.m in Sources */,
-				89FA51C11B6AFD8D00C319B4 /* TestCollectionViewController.m in Sources */,
 				89FA519C1B6AFA5B00C319B4 /* AppDelegate.m in Sources */,
 				89FA51991B6AFA5B00C319B4 /* main.m in Sources */,
 				89FA51BE1B6AFA7900C319B4 /* TestTableViewController.m in Sources */,
